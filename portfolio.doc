@@ -1,0 +1,346 @@
+<html>
+<head>
+    <base href="http://saramin.co.kr">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="robots" content="noindex,nofollow">
+    <link href="/css/ui/menu.css" media="all" rel="stylesheet" type="text/css">
+    <link href="/css/nudge/common-layout.css?v=20190315" media="all" rel="stylesheet" type="text/css" media="screen, print">
+    <link href="/css/nudge/content.css?v=20190315" media="all" rel="stylesheet" type="text/css" media="screen, print">
+    <link href="//www.saraminimage.co.kr/sri/css/resume_20180208.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/css/common_ui.css?v=20190315" rel="stylesheet" type="text/css" media="screen, print">
+    <script type="text/javascript" src="//www.saraminimage.co.kr/js/libs/prototype-1.6.0.3.js"></script>
+    <script type="text/javascript" src="//www.saraminimage.co.kr/js/libs/pngHack.mini.js"></script>
+    <title>이력서 보기</title>
+    <style type="text/css">
+        .section_profile .personal_info .dashboard ul {padding:0;}
+        a, li, div, table, p {font-family: "맑은 고딕";}
+        em, span {font-family: "맑은 고딕";font-style: normal;}
+        ol, ul, li {list-style: none;}
+        .portfolio_txtline span, .ico_point, .bar_txtline em, .bar_txtline span, .part_table .inpart_view td .box_point, .part_table .inpart_view td span, .part_table .inpart_view td p span {font-size:12px;}
+        .section_profile a, .section_profile, .section_profile .area_title, .section_part .part_table, .section_part .part_table table {width: 645px;}
+        .section_part .part_table a {color: #444;}
+        .section_part .part_table {margin: 1px;}
+        .section_part .part_table .inpart_view {border-collapse:collapse;}
+        .section_part .part_table .box_point {margin-bottom: 10px;}
+        .part_table .inpart_view th {border:1px solid #eaeaea;font-size: 12px;white-space: nowrap;}
+        .part_table .inpart_view td {border:1px solid #eaeaea;padding-bottom: 20px;font-size: 12px;word-wrap: break-word;word-break: break-all;-ms-word-wrap: break-word;-ms-word-break: break-all;}
+        .part_table .inpart_view .intit {word-wrap: break-word;word-break: break-all;-ms-word-wrap: break-word;-ms-word-break: break-all;}
+        .part_table .inpart_view .intxt {word-wrap: break-word;word-break: break-all;-ms-word-wrap: break-word;-ms-word-break: break-all;}
+        .myname em {font-size: 20px;color: #444;font-weight: bold;}
+        .blind {display: none;font-size: 0;width: 0;height: 0;text-indent: -999999em}
+        .wrapper_narrow.wrap_letterview {padding: 0px;}
+        .dashboard {width:645px;}
+        .dashboard table {width:645px;}
+        .dashboard .dashboard_list {width:643px;background: #fcfcfc;margin-bottom: 20px;border-collapse:collapse;}
+        .dashboard .dashboard_list th {padding: 10px 15px 0 15px;text-align: center;background: #fcfcfc;border: 1px solid #eaeaea;font-size: 12px;white-space: nowrap;}
+        .dashboard .dashboard_list th p {margin: 0 10px 15px 11px;}
+        .dashboard .dashboard_list td {padding: 10px 15px 20px 15px;vertical-align: middle;background: #fff;text-align: center;border: 1px solid #eaeaea;}
+        .dashboard .dashboard_list td p {font-size: 12px;word-wrap: break-word;word-break: break-all;-ms-word-wrap: break-word;-ms-word-break: break-all;}
+        .area_title {table-layout: fixed;width: 645px;word-wrap: break-word;word-break: break-all;-ms-word-wrap: break-word;-ms-word-break: break-all;}
+        .area_title .title {display:table-cell;}
+        .area_title .tit_another {display:table-cell;}
+        .area_title em {font-weight:bold;color:#fe6854;}
+        .address_list td {font-size: 12px;}
+        .address_list td p {margin-right:10px;word-wrap: break-word;word-break: break-all;-ms-word-wrap: break-word;-ms-word-break: break-all;}
+        .keypoint_list table {padding-top: 20px;width:645px;}
+        .keypoint_list table td p {font-size: 12px;}
+        .keypoint_list .list_type1 {padding-left:0;}
+        .keypoint_list .list_type1 li p {word-wrap: break-word;word-break: break-all;-ms-word-wrap: break-word;-ms-word-break: break-all;}
+        .keypoint_list .ico_point {top:initial;}
+        .dashboard .part_table {margin-top:15px;border-top:0;background-color:#fff;}
+        .portfolio_work_info {margin-top:0;}
+        .keypoint_list .list_type1 li {margin-bottom:3px;font-size:12px;line-height:14px}
+        .portfolio_txtline .keypoint_list .list_type1 {margin-top:5px;}
+    </style>
+</head>
+<body style="text-align:center;">
+<div class="wrapper_narrow wrap_letterview">
+    <!-- 제목 -->
+<table width="645" border="0" cellspacing="0" cellpadding="0" style="width:645px;">
+    <tr>
+        <td>
+            <div class="section_profile">
+                <div class="area_title">
+                    <h3 class="title">웹개발자</h3>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+<!-- 기본정보 -->
+<table width="645" border="0" cellspacing="0" cellpadding="0" style="width:645px;">
+    <colgroup>
+        <col width="100%">
+    </colgroup>
+    <tbody>
+    <tr>
+        <td>
+            <div class="section_profile">
+                <div class="personal_info">
+                    <div class="my_data">
+                        <table style="width:645px;">
+                                                            <colgroup>
+                                    <col width="120px">
+                                    <col width="525px">
+                                </colgroup>
+                                                        <tbody>
+                            <tr>
+                                                                    <td>
+                                        <div style="width:100px"><img alt="" src="http://www.saramin.co.kr/zf_user/persons/picture?idx=9306088|2a3b55fa2532ab61b3c86beaf9612b60a96953c6845154035ea06f3448f05702" border="0" width="100" height="140" /></div>
+                                    </td>
+                                                                <td>
+                                    <p class="myname">
+                                        <em>양성주</em>
+                                        <span class="birthday">
+                                            <span>1995년 (25세)</span> |
+                                            <span>여</span> |
+                                            <span>구직중</span>
+                                        </span>
+                                    </p>
+                                    <table class="address_list" cellspacing="0" border="0" cellpadding="0" style="width:525px">
+                                        <tbody>
+                                        <tr>
+                                            <td><p>tjdwn0812@naver.com</p></td>
+                                            <td><p>010-7172-6068 </p></td>
+                                            <td><p>010-7172-6068</p></td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="3"><p>(37894) 경북 포항시 남구 오천읍 정몽주로 164 삼주용산타운 </p></td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<table width="645" border="0" cellspacing="0" cellpadding="0" style="width:645px;">
+    <colgroup>
+        <col width="100%">
+    </colgroup>
+    <tbody>
+    <tr>
+        <td>
+            <div class="dashboard">
+                <table class="dashboard_list" cellspacing="0" border="0" cellpadding="0">
+                    <thead>
+                    <tr>
+                        <th><p>학력사항</p></th>
+                        <th><p>경력사항</p></th>
+                        <th><p>희망연봉/근무형태</p></th>
+                        <th><p>희망근무지</p></th>
+                        <th><p>포트폴리오</p></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>
+                            <p class="txt">대학교(4년) 졸업</p>
+                        </td>
+                        <td>
+                            <p class="txt">신입 </p>
+                        </td>
+                        <td>
+                            <p class="txt">회사내규에 따름/정규직</p>
+                        </td>
+                        <td>
+                            <p class="txt">구로구</p>
+                        </td>
+                        <td>
+                            <p class="txt portfolio_txt">-</p>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </td>
+    </tr>
+    </tbody>
+</table><table width="645" border="0" cellspacing="0" cellpadding="0" style="width:645px;">
+    <colgroup>
+        <col width="100%">
+    </colgroup>
+    <tbody>
+    <tr>
+        <td>
+            <div class="section_part">
+                <div class="area_title">
+                    <h3 class="title">학력<span class="indetail">최종학력<span class="bar">대학교<em>4년</em>졸업</span></span></h3>
+                </div>
+                                    <div class="part_table">
+                                                    <table class="inpart_view" cellspacing="0" cellpadding="0">
+                                <thead>
+                                <tr>
+                                    <th scope="col">재학기간</th>
+                                    <th scope="col">구분</th>
+                                    <th scope="col">학교명(소재지)</th>
+                                    <th scope="col">전공</th>
+                                    <th scope="col">학점</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                                                    <tr>
+                                        <td class="lineup_center" rowspan="1">
+                                            2014.03 ~ 2018.08                                        </td>
+                                        <td class="lineup_center" rowspan="1">
+                                            졸업                                        </td>
+                                        <td>
+                                            안동대학교 (경북)                                        </td>
+                                        <td>
+                                            원예육종                                                                                                                                                                            </td>
+                                        <td class="lineup_center">-</td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td class="lineup_center" rowspan="1">
+                                            2011.03 ~ 2014.02                                        </td>
+                                        <td class="lineup_center" rowspan="1">
+                                            졸업                                        </td>
+                                        <td>
+                                            경주여자고등학교                                        </td>
+                                        <td>
+                                            이과계열                                                                                                                                                                            </td>
+                                        <td class="lineup_center">-</td>
+                                    </tr>
+                                                                                                    </tbody>
+                            </table>
+                                            </div>
+                                                            </div>
+        </td>
+    </tr>
+    </tbody>
+</table><table width="645" border="0" cellspacing="0" cellpadding="0" style="width:645px;">
+    <colgroup>
+        <col width="100%">
+    </colgroup>
+    <tbody>
+    <tr>
+        <td>
+            <div class="section_part">
+                <div class="area_title">
+                    <h3 class="title">자격증/어학/수상내역</h3>
+                </div>
+                <div class="part_table">
+                    <table class="inpart_view" cellspacing="0" cellpadding="0">
+                        <thead>
+                        <tr>
+                            <th scope="col">취득일/수상일</th>
+                            <th scope="col">구분</th>
+                            <th scope="col">자격/어학/수상명</th>
+                            <th scope="col">발행처/기관/언어</th>
+                            <th scope="col">합격/점수</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                                    <tr>
+                                <td class="lineup_center">2017.08 </td>
+                                <td>자격증/면허증</td>
+                                <td>1종보통운전면허 </td>
+                                <td>경찰청(운전면허시험관리단)</td>
+                                <td>최종합격</td>
+                            </tr>
+                                                </tbody>
+                    </table>
+                </div>
+            </div>
+        </td>
+    </tr>
+    </tbody>
+</table><table width="645" border="0" cellspacing="0" cellpadding="0" style="width:645px;">
+    <colgroup>
+        <col width="100%">
+    </colgroup>
+    <tbody>
+    <tr>
+        <td>
+            <div class="section_part">
+                <div class="area_title">
+                    <h3 class="title">보유기술</h3>
+                </div>
+                <div class="part_table">
+                    <table class="inpart_view" cellspacing="0" cellpadding="0">
+                        <thead>
+                        <tr>
+                            <th scope="col">보유능력</th>
+                            <th scope="col">수준</th>
+                            <th scope="col">상세내용</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                                    <tr>
+                                <td>언어</td>
+                                <td>초급</td>
+                                <td>Java - 자료구조를 이해하고 (array list, linked list, iterator등) 구현해본 경험 있음, 라이브러리 기반 활용 가능<br />
+HTML5, CSS3<br />
+Python - 블로그 구현 http://cheedaikseon.pythonanywhere.com/</td>
+                            </tr>
+                                                    <tr>
+                                <td>프레임워크</td>
+                                <td>초급</td>
+                                <td>Spring MVC - 포트폴리오 참고</td>
+                            </tr>
+                                                    <tr>
+                                <td>데이터베이스</td>
+                                <td>초급</td>
+                                <td>OracleDB<br />
+MySqlDB<br />
+DjangoDB </td>
+                            </tr>
+                                                    <tr>
+                                <td>OS</td>
+                                <td>초급</td>
+                                <td>linux - 기초적인 명령어 사용 가능</td>
+                            </tr>
+                                                    <tr>
+                                <td>GIT</td>
+                                <td>초급</td>
+                                <td>GitHub - https://github.com/cheedaikseon</td>
+                            </tr>
+                                                </tbody>
+                    </table>
+                </div>
+            </div>
+        </td>
+    </tr>
+    </tbody>
+</table><table width="645" border="0" cellspacing="0" cellpadding="0" style="width:645px;">
+    <colgroup>
+        <col width="100%">
+    </colgroup>
+    <tbody>
+    <tr>
+        <td>
+            <div class="section_part">
+                <div class="area_title">
+                    <h3 class="title">자기소개서</h3>
+                </div>
+                <div class="part_table">
+                    <table class="inpart_view" cellspacing="0" cellpadding="0">
+                        <tbody>
+                        <tr>
+                            <td>
+                                                                    <p class="intit">[비록 처음에는 \가 어디 있는지도 몰랐지만]</p>
+                                    <div class="intxt">저는 어릴 때부터 컴퓨터를 좋아했습니다. 하지만 막연하게 취미로만 즐기고 있었기에 전공을 달리하여 학사과정을 진행 중에 듣게 된 C 프로그래밍 처음은 단순하게 컴퓨터 좋아하니까 한번 들어봐야겠다라는 가벼운 마음으로 듣게 된 수업에서 저는 헤어나올 수 없었습니다. 첫 수업에서 \를 못 찾아서 난감했지만 내가 사용하는 모든 전자기기는 코드로 되어 있고 코드를 내가 작성할 수 있다는 점이 저에겐 큰 매력으로 다가왔고 그 이후, 웹 프로그래밍 수업도 들으면서 진로에 대한 고민을 해봤습니다. 하지만 다른 전공이 있던 제가 섣불리 도전하기에 프로그래밍은 너무 큰 산으로 다가왔습니다. 그래서 졸업 후 전공에 맞춰 취업했지만 그 회사에서 사용하던 프로그램을 보며 이건 어떻게 구현했을까 하는 생각이 들며 나도 만들고 싶다는 간절함이 들었고 그렇게 저는 회사를 그만두고 '핀테크를 위한 자바 프레임워크 개발자 양성과정'을 듣게 되었습니다. 물론 학원 과정으로는 부족하다 생각하여 혼자서 '인프런'에서 자료구조나 알고리즘 등 기초적인 수업도 듣고 '백준'에서 알고리즘 문제를 푸는 등 따로 공부를 해왔습니다.</div>
+                                                                    <p class="intit">[시작은 완벽할 수 없지만]</p>
+                                    <div class="intxt">시작하는 처지인 저로서는 완벽하지 않은 실력이기에 더 성장할 수 있습니다. 기존에 있던 것을 더 단단하게 하고 새로운 것에 대한 호기심과 결단할 수 있는 추진력으로 조직의 혁신을 주도하겠습니다.<br />
+우선 입사 후 학원에서 배운 프로그래밍 언어와 업무수행에 관련한 지식들을 실무에 적용 해 나갈 수 있도록 최선을 다하겠습니다.<br />
+또한, 회사의 운영 흐름을 익히고 업무적으로 보완할 수 있는 실력을 갖추도록 항상 노력하는 사람이 될 것입니다.<br />
+입사 일 년 후 저는 회사의 운영 흐름을 잘 인지하고 업무에 방해되지 않는 선에서 회사의 보탬이 되고자 자격증 준비 및 학위준비, 다양한 개발 능력을 갖추어 선배들에게는 아직 경력이 짧지만 든든한 후배가 되어 선배님들의 뒤를 잘 따라갈 것입니다.<br />
+오 년 후 저는 다양한 프로젝트에 참여하여 얻은 경험과 지식을 가지고 저를 끌어주신 선배님들처럼 많은 후배를 잘 이끌 것입니다.</div>
+                                                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </td>
+    </tr>
+    </tbody>
+</table></div>
+</body>
+</html>
